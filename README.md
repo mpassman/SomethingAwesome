@@ -1,4 +1,4 @@
-# 01 HTML CSS Git: Code Refactor
+# 01 Marketing SEO Refactor
 > Refractor of a Marketing Page to be more SEO friendly.
 
 This was a hoemwork assignment where we refractored the HTML/CSS of a marketing page.
