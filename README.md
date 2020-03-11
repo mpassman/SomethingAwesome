@@ -1,4 +1,7 @@
 # 01 HTML CSS Git: Code Refactor
+> Refractor of a Marketing Page to be more SEO friendly.
+
+This was a hoemwork assignment where we refractored the HTML/CSS of a marketing page.
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
@@ -39,6 +42,3 @@ You are required to submit the following for review:
 * The URL of the deployed application.
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
